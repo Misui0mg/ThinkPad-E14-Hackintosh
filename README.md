@@ -11,7 +11,7 @@
 
 OpenCore-based EFI for Lenovo ThinkPad E14 | Model 20RA
 
-I'm back to Linux, and bye bye macOS, I uploaded this repository before rm -rf /, for reference only, this repository should not be updated in the future.
+I'm back to Linux, and bye bye macOS, I uploaded this repository before rm -rf /, for reference only.
 
 # Contect
 
